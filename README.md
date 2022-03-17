@@ -1,2 +1,2 @@
-# BootcampPhilips
+# Bootcamp Philips
 Bootcamp Philips - Java + Angular
